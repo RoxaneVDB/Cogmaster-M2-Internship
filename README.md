@@ -1,8 +1,8 @@
 # Cogmaster-M2-Internship
 You can find here the code used to run the simulations during my M2 internship, as well as some example videos.
-The corresponding M2 thesis with all explantions can be found on my personal website: http://roxane.vandenbossche.eu/page_ressources.html
+The corresponding M2 thesis with all explanations can be found on my personal website: http://roxane.vandenbossche.eu/page_ressources.html
 
-This repository is composed of 3 folders:
+This repository is composed of 4 folders:
 
 # "Model 1" and "Model 2" 
 contain the code for model 1 and model 2 respectively.
@@ -21,8 +21,8 @@ They have the same strucure:
 
 If you want to run the simulation on your computer, please download the whole file of a model and run big_manager.py (for example by writing in you terminal $python big_manager.py). You can modify the parameters in parameters.py to try other conditions for the simulations.
 
-# Videos
-contains example videos for both models.
+# "Videos of model 1" and "Videos of model 2"
+contains example videos for both models with a few different sets of parameters.
 
 
 
