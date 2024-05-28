@@ -19,7 +19,7 @@ They have the same strucure:
 - makeVideo.py contains the functions used to create the images of each simulation step and then the videos of the simulations.
 - parameters.py is the file where all the parameters are set (except noise and beta, fixed in big_manager.py)
 
-If you want to run the simulation on your computer, please download the whole file of a model and run big_manager.py (for example by writing in you terminal $pyhton big_manager.py). You can modify the parameters in parameters.py to try other conditions for the simulations.
+If you want to run the simulation on your computer, please download the whole file of a model and run big_manager.py (for example by writing in you terminal $python big_manager.py). You can modify the parameters in parameters.py to try other conditions for the simulations.
 
 # Videos
 contains example videos for both models.
